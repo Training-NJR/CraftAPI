@@ -1,12 +1,9 @@
-//Jenkinsfile (Declarative Pipeline)
+//Jenkinsfile (Scripted Pipeline)
 /* Requires the Docker Pipeline plugin */
-pipeline {
-    agent { docker { image 'ruby:3.2.2-alpine3.18' } }
-    stages {
-        stage('build') {
-            steps {
-                sh 'ruby --version'
-            }
+node {
+    stage('Build') {
+        docker.image('maven:3.9.3-eclipse-temurin-17-alpine').inside {
+            sh 'mvn --version'
         }
     }
 }
