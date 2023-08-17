@@ -1,0 +1,62 @@
+-Xdoclint:none
+@options
+@packages
+-classpath
+'/Users/dtaunk/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar:/Users/dtaunk/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+8
+-sourcepath
+'/Users/dtaunk/Coach/CraftAPI/src/main/java'
+-Xdoclint:none
+-author
+-bottom
+'Copyright &#169; 2018&#x2013;2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/dtaunk/Coach/CraftAPI/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CraftAPI 0.6.2 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/dtaunk/Coach/CraftAPI/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CraftAPI 0.6.2 API'
+com.github.games647.craftapi.cache
+com.github.games647.craftapi
+com.github.games647.craftapi.model
+com.github.games647.craftapi.model.skin
+com.github.games647.craftapi.model.auth
+com.github.games647.craftapi.resolver
+com.github.games647.craftapi.resolver.ratelimiter
+com.github.games647.craftapi.resolver.http
+/Users/dtaunk/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar = 1692014886269
+/Users/dtaunk/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar = 1692014885297
+/Users/dtaunk/Coach/CraftAPI/src/main/java = 1692014855518
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/constant-values.html = 1692196101788
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/member-search-index.zip = 1692196102020
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/overview-tree.html = 1692196101982
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/index.html = 1692196102042
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/package-search-index.js = 1692196102013
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/package-search-index.zip = 1692196102017
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/type-search-index.zip = 1692196102018
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/serialized-form.html = 1692196101798
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/index-all.html = 1692196102023
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/allpackages-index.html = 1692196102031
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/deprecated-list.html = 1692196102035
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/member-search-index.js = 1692196102019
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/allclasses.html = 1692196102037
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/script.js = 1692196102050
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/stylesheet.css = 1692196102050
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/overview-summary.html = 1692196102044
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/help-doc.html = 1692196102047
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/element-list = 1692196101716
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/allclasses-index.html = 1692196102029
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/type-search-index.js = 1692196102017
+/Users/dtaunk/Coach/CraftAPI/target/apidocs/search.js = 1692196102052
