@@ -1,0 +1,10 @@
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/resolver/ratelimiter/TickingRateLimiterTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/resolver/AbstractResolverTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/model/skin/SkinPropertyTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/NamePredicateTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/model/skin/TextureTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/UUIDAdapterTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/cache/MemoryCacheTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/InstantAdapterTest.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/resolver/ratelimiter/FakeTicker.java
+/Users/dtaunk/Coach/CraftAPI/src/test/java/com/github/games647/craftapi/resolver/http/RotatingSourceFactoryTest.java

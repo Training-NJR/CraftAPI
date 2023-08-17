@@ -1,0 +1,11 @@
+com/github/games647/craftapi/InstantAdapterTest.class
+com/github/games647/craftapi/resolver/AbstractResolverTest$1.class
+com/github/games647/craftapi/model/skin/TextureTest.class
+com/github/games647/craftapi/resolver/ratelimiter/FakeTicker.class
+com/github/games647/craftapi/NamePredicateTest.class
+com/github/games647/craftapi/resolver/ratelimiter/TickingRateLimiterTest.class
+com/github/games647/craftapi/cache/MemoryCacheTest.class
+com/github/games647/craftapi/resolver/http/RotatingSourceFactoryTest.class
+com/github/games647/craftapi/resolver/AbstractResolverTest.class
+com/github/games647/craftapi/UUIDAdapterTest.class
+com/github/games647/craftapi/model/skin/SkinPropertyTest.class
